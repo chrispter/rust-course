@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rustCourse"
-version = "0.1.0"
+name = "rust_course"
+version = "0.1.1"
